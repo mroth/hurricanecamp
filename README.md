@@ -16,7 +16,7 @@ In your own home, presuming you have working power and internet.
 No one really. The idea came from @jennjenn and @mroth.
 
 ### How do I participate?
-Join the group discussion at: [URL]
+Join the group discussion at: http://bit.ly/hurricanedevcamp-chat
 
 Tag your posts on twitter with hashtag #hurricanedevcamp
 
