@@ -13,12 +13,12 @@ In your own home, presuming you have working power and internet.
  * Enough food, water, and supplies to last the storm. Please see http://nyc.gov or your local city's informational site for safety instructions.
 
 ### Who's behind this?
-No one really. The idea came from @jennjenn and @mroth.
+No one really. The idea came from [@jennjenn](http://twitter.com/jennjenn) and [@mroth](http://twitter.com/mroth).
 
 ### How do I participate?
 Join the group discussion at: http://bit.ly/hurricanedevcamp-chat
 
-Tag your posts on twitter with hashtag #hurricanedevcamp
+Tag your posts on twitter with hashtag [#hurricanedevcamp](http://twitter.com/search/realtime/%23hurricanedevcamp)
 
 ### Disclaimer
 
