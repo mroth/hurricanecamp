@@ -1,4 +1,6 @@
-# Hurricane Camp
+# Hurricane Dev Camp
+
+_anyone can update this page!  just fork the project and send a pull request with your changes._
 
 ### What is hurricane dev camp?
 Since many of us will be trapped inside this weekend due to Hurricane Irene, hurricane dev camp is a hackathon to work on your side projects, since what else are you going to do really? Perhaps we will be inspired to work on weather / disaster relief related projects, but it's not mandatory.
