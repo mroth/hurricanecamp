@@ -15,7 +15,7 @@ In your own home, presuming you have working power and internet.  Group collabor
  * Enough food, water, and supplies to last the storm. Please see http://nyc.gov or your local city's informational site for safety instructions.
 
 ### What if I live in an area not affected by Hurricane Irene?
-You're certainly welcome to participate anyhow!  Although if the weather is nice where you are, you might want to consider going outside.
+You're certainly welcome to participate anyhow!  Although if the weather is :sunny: where you are, you might want to consider going outside instead. 
 
 ### Who's behind this?
 No one really. The idea came from [@jennjenn](http://twitter.com/jennjenn) and [@mroth](http://twitter.com/mroth).
